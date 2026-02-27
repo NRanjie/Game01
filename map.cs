@@ -1,6 +1,6 @@
-using system;
+using System;
 
-class map
+class Map
 {
 
 }
