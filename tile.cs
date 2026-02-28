@@ -1,16 +1,18 @@
-using System;
+ using System;
+
 
 class Tile
-{
-  bool isSolid;
-}
 
-class Wall
 {
-  
-}
+  public string tileName;
+  public char tileSymbol;
+  public bool tileWalkable;
 
-class Water
-{
+  public Tile(string name, char symbol, bool walkable)
+  {
+    tileName = name;
+    tileSymbol = symbol;
+    tileWalkable = walkable;
+  }
 
-}
+} 
