@@ -2,9 +2,9 @@
 First hobbiest game project to relearn code and logic.
 
 Game01:
-A basic engine
+A godot
 
-A tilebased grid map - 2DArrey readable maps
+A hexbased grid map - 2DArrey readable maps
 
 A moveable character - Needs input controls
 
